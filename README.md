@@ -1,10 +1,6 @@
 # BankFlow - Mobile Banking Application
 
 <p align="center">
-  <img src="assets/images/2.png" alt="BankFlow Logo" width="120"/>
-</p>
-
-<p align="center">
   <strong>A modern mobile banking solution built with Flutter and Supabase</strong>
 </p>
 
@@ -12,10 +8,7 @@
 
 ## Authors
 
-| Name | Role |
-|------|------|
-| **Georgio Elias** | Developer |
-| **Lucien Karam** | Developer |
+**Georgio Elias** & **Lucien Karam**
 
 ---
 
