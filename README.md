@@ -12,6 +12,12 @@
 
 ---
 
+## Report
+
+ --> https://github.com/georgioelias/BankFlow/blob/main/BankFlow_Report.pdf
+
+---
+
 ## Overview
 
 BankFlow is a full-featured mobile banking application that demonstrates real-world banking functionality. Built with Flutter for cross-platform compatibility and Supabase for backend services, the app provides a seamless user experience for managing finances, transferring money, and tracking transactions.
